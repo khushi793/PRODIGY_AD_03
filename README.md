@@ -1,16 +1,32 @@
-# stopwatch
+# ⏱️ Stopwatch – Flutter App
 
-A new Flutter project.
+The **Stopwatch** is a lightweight Flutter application that enables users to track time with precision. It displays minutes, seconds, and milliseconds, and includes controls to start, pause, and reset the timer. Built using Dart and Flutter, it’s ideal for learning state management and working with timers in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ▶️ **Start Timer**  
+  Begins tracking time with millisecond precision.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ⏸️ **Pause Timer**  
+  Pauses the stopwatch without losing the current time.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔁 **Reset Timer**  
+  Clears the stopwatch back to 00:00:00.
+
+- ⏲️ **Real-Time Display**  
+  Updates minutes, seconds, and milliseconds dynamically.
+
+- 📱 **Responsive UI**  
+  Adapts smoothly to all screen sizes and orientations.
+
+---
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/c57db803-8e57-4f8b-9600-a00fbbc678de)
+
+
+
+## 🤝 Contributions
+
+Feel free to fork, open issues, or submit pull requests. Any improvement is appreciated.
